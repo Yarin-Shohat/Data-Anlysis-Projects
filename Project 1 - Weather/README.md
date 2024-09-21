@@ -26,9 +26,3 @@ The weather dataset includes the following columns:
 - **Project 1 - Weather Dataset.csv**: The raw dataset containing hourly weather data.
 - **Project 1 - Weather Data Analysis Start.ipynb**: A notebook with key questions to guide your analysis.
 - **Project 1 - Weather Data Analysis.ipynb**: The completed notebook with data cleaning, processing, and analysis.
-
----
-
-### Purpose
-
-The goal of this project is to explore the relationships between temperature, humidity, wind speed, and other weather conditions. By analyzing this data, you can gain insights into how weather patterns change over time and how different variables interact.
